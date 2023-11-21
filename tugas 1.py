@@ -22,3 +22,4 @@ else :
 print('budi pulang kerumah')
 print('budi menyerahkan hasil belanjanya kepada ibu')
 print('Happy Ending')
+print('selesai')
